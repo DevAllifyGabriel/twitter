@@ -1,0 +1,21 @@
+.top-news {
+  .news-title {
+    margin: 10px 15px;
+    font-size: 20px;
+  }
+  .text-top {
+    margin: 0px 15px;
+    .top-news {
+      margin-top: -7px;
+      padding: 0;
+      font-weight: 500;
+    }
+    .subtitle {
+      margin-top: -5px;
+      color: #6e767d;
+      padding: 0;
+      font-weight: 300;
+      font-size: 12px;
+    }
+  }
+}
